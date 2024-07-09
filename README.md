@@ -1,6 +1,6 @@
 # Termux GUI
 
-This script allows you to enhance your Termux experience by adding a graphical user interface (GUI) >
+This script install OPEN JDK 8 in kali linux >
 
 ## Installation
 

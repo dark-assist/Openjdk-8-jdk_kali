@@ -19,7 +19,7 @@ This script allows you to enhance your Termux experience by adding a graphical u
 
 4. Run the installation script:
     ```bash
-    python3 jdk8.py
+    python3 java8.py
     ```
 
 ## Contributing
